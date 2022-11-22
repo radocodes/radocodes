@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Radoslav Yordanov and I’m Software Engineer
+- 👋 Hi, my name is Radoslav Yordanov and I’m а Software Engineer
 - 👀 I’m interested in Android, Kotlin, Java, Flutter, IOS, C#, .NET, etc.
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on valuable open source projects which help for example to people, society, environment, science or software development, or to collaborate with talented and ambitious enterpreneurs in order to create some unicorn solution together.
